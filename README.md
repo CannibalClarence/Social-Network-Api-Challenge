@@ -10,10 +10,12 @@ Clone the repository, navigate to the project folder on your CLI and run the fol
 `npm start`
 
 ## Video walk through
-
+<li>
 Part 1: https://drive.google.com/file/d/1t9LsmJIOgt2fYgLDrCXGX02MzuDQuxXR/view
+ </li>
+ <li>
 Part 2: https://drive.google.com/file/d/1Ri9KSJVEA_AOeYoWC52sLxgW8nYCCLoz/view
-
+</li>
 ![image](https://user-images.githubusercontent.com/100390351/182006403-1adedd22-b1ab-4cb9-91ed-4a9c3469a3ec.png)
 
 ## Packages
